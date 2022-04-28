@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "tty", "~> 0.7.0"
+gem "prompt", "~> 1.2"
+
+gem "tty-prompt", "~> 0.12.0"
